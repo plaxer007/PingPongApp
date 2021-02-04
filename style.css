@@ -1,0 +1,46 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css";
+img{
+    width:100%;
+}
+.card {
+    width:50%;
+    margin: auto;
+}
+h4 {
+    font-weight: 600;
+    padding: 5px 10px;
+    color: #333;
+}
+.score-card{
+    margin-left: 10px;
+}
+.score{
+    display: flex;
+}
+.score-card span,p{
+    margin: 5px;
+    font-size: 34px;
+    font-weight: 600;
+}
+label {
+    margin-left: 5px;
+}
+label p {
+    font-weight: 700;
+    font-size: 20px;
+    display: inline
+}
+button{
+    width: 32%;
+}
+.buttons{
+    margin-top: 30px;
+    justify-content:center ;
+}
+
+.winner{
+    color: greenyellow;
+}
+.loser{
+    color: rgb(192, 59, 59);
+}
