@@ -1,2 +1,2 @@
 # PingPongApp
-For JS learning purposes. project#1
+For JS learning purposes. Created on course
